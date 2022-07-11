@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Name (A to Z)Name (A to Z)Name (Z to A_3f2346</name>
+   <tag></tag>
+   <elementGuidId>7e9c703b-8ac9-4182-809a-7256db0ba82f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header_container']/div[2]/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.select_container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>240064cd-c881-4fd6-a9c1-7bc1677aa304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select_container</value>
+      <webElementGuid>3ad7a957-1204-43a1-bc91-0dc478870a79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name (A to Z)Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)</value>
+      <webElementGuid>6b0c1ce9-ccff-4b77-8197-0cf1190745d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header_container&quot;)/div[@class=&quot;header_secondary_container&quot;]/div[@class=&quot;right_component&quot;]/span[@class=&quot;select_container&quot;]</value>
+      <webElementGuid>a000bdbe-f838-45fe-a5ce-b2a31f8079e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header_container']/div[2]/div[2]/span</value>
+      <webElementGuid>6ea05175-b247-474d-8d2d-4dea904d2a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/following::span[1]</value>
+      <webElementGuid>b9af3f0b-02f1-4598-ab95-94efb3fc1eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::span[2]</value>
+      <webElementGuid>a1d422b5-cb5f-4e16-9536-05aefdbbb6e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Backpack'])[1]/preceding::span[2]</value>
+      <webElementGuid>c336eb75-7c7b-48fe-91c6-00417f807c95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>662dd143-fa80-4731-9171-7aaec53de9b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Name (A to Z)Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)' or . = 'Name (A to Z)Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)')]</value>
+      <webElementGuid>6c3a6ce5-61ed-47dd-bf90-cc38cac2d2c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
